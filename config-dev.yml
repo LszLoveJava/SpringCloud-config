@@ -1,6 +1,6 @@
 #开发环境
-server:
-    port: 8214
+config:
+  info: 我是开发环境
     
     
     
