@@ -1,7 +1,4 @@
 #开发环境
-server:
-    port: 8214
-    
     
     
  #push成功，测试下pull   
