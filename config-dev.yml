@@ -2,12 +2,6 @@
 config:
   info: kaifa3
 
-spring:
-  rabbitmq:
-    host: 47.106.133.29
-    port: 5672
-    username: xingchen
-    password: lsz20000109
-    
+
     
  #push成功，测试下pull   
